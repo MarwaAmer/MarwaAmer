@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#A678F0">Marwa Amer</span></h1>
-<h3 align="center">💜 iOS Developer | Swift | SwiftUI | UIKit</h3>
+<h1 align="center">💜 Marwa Amer</h1>
+<h3 align="center">iOS Developer | Swift | SwiftUI | UIKit</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-9061F9?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -9,15 +9,58 @@
 
 ---
 
-### 🌸 About Me
-🎯 Passionate **iOS Developer** with 4+ years of experience building **clean, user-focused mobile apps**.  
-💻 Skilled in **Swift**, **SwiftUI**, **UIKit**, and architectural patterns like **MVVM** and **MVC**.  
-🌱 Currently improving my skills in **Swift Concurrency (async/await)** and **Combine**.  
-✨ I love turning creative ideas into elegant, real-world applications.
+## 🌸 About Me
+Hi, I'm **Marwa Amer**, an **iOS Developer** passionate about crafting clean, beautiful, and user-friendly mobile apps.  
+I have 4+ years of experience building iOS applications using **Swift**, **UIKit**, and **SwiftUI**, following **MVC** and **MVVM** architectures.  
+I love transforming creative ideas into real-world apps that make users’ lives easier.
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 Featured Projects
+
+### 🏠 Soom App
+Marketplace app for local goods and services — from real estate to vehicles and electronics.  
+Users can browse, post, and manage ads, view locations on a map, and share listings on social media.
+
+🧩 **Tech Stack:** Swift, UIKit, MVC, MapKit, REST APIs
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Soom+Home+Screen" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Soom+Ad+Detail" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Soom+Map" width="220">
+</p>
+
+---
+
+### 🛒 Haraj App
+E-commerce platform that allows users to buy, sell, and rent products like cars and real estate.  
+It includes user-generated ads, category filtering, and secure commission-based payments.
+
+🧩 **Tech Stack:** Swift, UIKit, MVC, Core Data, REST APIs
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Haraj+Home" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Haraj+Details" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Haraj+Category" width="220">
+</p>
+
+---
+
+### 💊 Drug GPS
+Personal health management app to help patients organize medication schedules and doctor appointments.  
+It includes reminders, chat with doctors, and detailed medical history tracking.
+
+🧩 **Tech Stack:** Swift, SwiftUI, MVVM, Core Data, Local Notifications
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=DrugGPS+Dashboard" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=DrugGPS+Reminders" width="220" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=DrugGPS+Chat" width="220">
+</p>
+
+---
+
+## 🧠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -30,27 +73,11 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🏠 [**Soom App**](https://github.com/yourusername/Soom-App) | Marketplace app for local goods & services | Swift, UIKit, MVC |
-| 🛒 [**Haraj App**](https://github.com/yourusername/Haraj-Ecommerce) | E-commerce app for real estate & vehicles | Swift, UIKit, MVC |
-| 🎭 [**Casting App**](https://github.com/yourusername/Casting-App) | Talent-sharing app like Instagram | Swift, UIKit, MVC |
-| 💊 [**Drug GPS**](https://github.com/yourusername/Drug-GPS) | Personal health tracking app | Swift, SwiftUI, MVVM |
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=A678F0&icon_color=A678F0" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=A678F0" height="160px"/>
 </p>
-
----
-
-### 💬 Quote
-> “Clean code is like good design — it should feel effortless.”
 
 ---
 
