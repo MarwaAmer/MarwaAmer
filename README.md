@@ -18,44 +18,44 @@ I love transforming creative ideas into real-world apps that make users’ lives
 
 ## 🚀 Featured Projects
 
-### 🏠 Soom App
+### 🏠 Soom App  
 Marketplace app for local goods and services — from real estate to vehicles and electronics.  
-Users can browse, post, and manage ads, view locations on a map, and share listings on social media.
+Users can browse, post, and manage ads, view locations on a map, and share listings on social media.  
 
-🧩 **Tech Stack:** Swift, UIKit, MVC, MapKit, REST APIs
+🧩 **Tech Stack:** Swift, UIKit, MVC, MapKit, REST APIs  
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Soom+Home+Screen" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Soom+Ad+Detail" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Soom+Map" width="220">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Soom+Home" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Soom+Details" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Soom+Map" width="200">
 </p>
 
 ---
 
-### 🛒 Haraj App
+### 🛒 Haraj App  
 E-commerce platform that allows users to buy, sell, and rent products like cars and real estate.  
-It includes user-generated ads, category filtering, and secure commission-based payments.
+It includes user-generated ads, category filtering, and secure commission-based payments.  
 
-🧩 **Tech Stack:** Swift, UIKit, MVC, Core Data, REST APIs
+🧩 **Tech Stack:** Swift, UIKit, MVC, Core Data, REST APIs  
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Haraj+Home" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Haraj+Details" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Haraj+Category" width="220">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Haraj+Home" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Haraj+Details" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Haraj+Categories" width="200">
 </p>
 
 ---
 
-### 💊 Drug GPS
+### 💊 Drug GPS  
 Personal health management app to help patients organize medication schedules and doctor appointments.  
-It includes reminders, chat with doctors, and detailed medical history tracking.
+It includes reminders, chat with doctors, and detailed medical history tracking.  
 
-🧩 **Tech Stack:** Swift, SwiftUI, MVVM, Core Data, Local Notifications
+🧩 **Tech Stack:** Swift, SwiftUI, MVVM, Core Data, Local Notifications  
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=DrugGPS+Dashboard" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=DrugGPS+Reminders" width="220" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=DrugGPS+Chat" width="220">
+  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=DrugGPS+Dashboard" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=DrugGPS+Reminders" width="200" style="margin-right:10px;">
+  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=DrugGPS+Chat" width="200">
 </p>
 
 ---
