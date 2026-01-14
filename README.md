@@ -37,7 +37,7 @@ Users can view and create trips, assign drivers, and track trip progress in real
 🧩 **Tech Stack:** Swift, UIKit, MVVM, Core Data, REST APIs  
 
 <p align="center">
-  <img src="image/splash.png" width="200" style="margin-right:10px;">
+  <img src="image/splas.png" width="200" style="margin-right:10px;">
   <img src="image/allTrip.jpeg"" width="200" style="margin-right:10px;">
   <img src="image/tripOla.jpeg"" width="200">
 </p>
