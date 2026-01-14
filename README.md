@@ -37,9 +37,9 @@ Users can view and create trips, assign drivers, and track trip progress in real
 🧩 **Tech Stack:** Swift, UIKit, MVVM, Core Data, REST APIs  
 
 <p align="center">
-  <img src="Assets/ola_splash.png" width="200" style="margin-right:10px;">
-  <img src="Assets/ola_home.png" width="200" style="margin-right:10px;">
-  <img src="Assets/ola_add_trip.png" width="200">
+  <img src="image/olaSplash.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/allTrip.jpeg"" width="200" style="margin-right:10px;">
+  <img src="image/tripOla.jpeg"" width="200">
 </p>
 
 ---
@@ -51,9 +51,9 @@ Users can post photos/videos of their talents, follow others, and interact with 
 🧩 **Tech Stack:** Swift, UIKit, MVC, REST APIs  
 
 <p align="center">
-  <img src="Assets/casting_login.png" width="200" style="margin-right:10px;">
-  <img src="Assets/casting_feed.png" width="200" style="margin-right:10px;">
-  <img src="Assets/casting_friends.png" width="200">
+  <img src="image/loginCastig.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/homeCasting.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/friendsCasting.jpeg" width="200">
 </p>
 
 ---
