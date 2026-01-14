@@ -3,59 +3,57 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-9061F9?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" /></a>
   <a href="mailto:marwa.email@example.com"><img src="https://img.shields.io/badge/-Email-A678F0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🌸 About Me
-Hi, I'm **Marwa Amer**, an **iOS Developer** passionate about crafting clean, beautiful, and user-friendly mobile apps.  
-I have 4+ years of experience building iOS applications using **Swift**, **UIKit**, and **SwiftUI**, following **MVC** and **MVVM** architectures.  
-I love transforming creative ideas into real-world apps that make users’ lives easier.
+Hi, I'm **Marwa Amer**, an **iOS Developer** with over 4 years of experience building user-friendly mobile apps using **Swift**, **UIKit**, and **SwiftUI**.  
+I love creating elegant, high-performance apps that make people’s lives easier 💡
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 Soom App  
-Marketplace app for local goods and services — from real estate to vehicles and electronics.  
-Users can browse, post, and manage ads, view locations on a map, and share listings on social media.  
-
-🧩 **Tech Stack:** Swift, UIKit, MVC, MapKit, REST APIs  
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Soom+Home" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Soom+Details" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Soom+Map" width="200">
-</p>
-
----
-
-### 🛒 Haraj App  
-E-commerce platform that allows users to buy, sell, and rent products like cars and real estate.  
-It includes user-generated ads, category filtering, and secure commission-based payments.  
-
-🧩 **Tech Stack:** Swift, UIKit, MVC, Core Data, REST APIs  
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=Haraj+Home" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=Haraj+Details" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/9061F9/ffffff?text=Haraj+Categories" width="200">
-</p>
-
----
-
 ### 💊 Drug GPS  
-Personal health management app to help patients organize medication schedules and doctor appointments.  
-It includes reminders, chat with doctors, and detailed medical history tracking.  
+A personal health management app that helps patients organize medication schedules and doctor appointments.  
+Includes reminders, chat with doctors, and detailed medical history tracking.  
 
 🧩 **Tech Stack:** Swift, SwiftUI, MVVM, Core Data, Local Notifications  
 
 <p align="center">
-  <img src="image/loginDrug.jpeg" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/A678F0/ffffff?text=DrugGPS+Reminders" width="200" style="margin-right:10px;">
-  <img src="https://via.placeholder.com/250x500/333333/ffffff?text=DrugGPS+Chat" width="200">
+  <img src="image/login.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/home.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/setting.jpeg" width="200">
+</p>
+
+---
+
+### ⛽️ OLA Energy App  
+An app designed for managing trips, cars, and drivers for OLA Energy’s logistics operations.  
+Users can view and create trips, assign drivers, and track trip progress in real time.  
+
+🧩 **Tech Stack:** Swift, UIKit, MVVM, Core Data, REST APIs  
+
+<p align="center">
+  <img src="Assets/ola_splash.png" width="200" style="margin-right:10px;">
+  <img src="Assets/ola_home.png" width="200" style="margin-right:10px;">
+  <img src="Assets/ola_add_trip.png" width="200">
+</p>
+
+---
+
+### 🎭 Casting App  
+A social platform for discovering and sharing talents — similar to Instagram but focused on creative users.  
+Users can post photos/videos of their talents, follow others, and interact with likes and comments.  
+
+🧩 **Tech Stack:** Swift, UIKit, MVC, REST APIs  
+
+<p align="center">
+  <img src="Assets/casting_login.png" width="200" style="margin-right:10px;">
+  <img src="Assets/casting_feed.png" width="200" style="margin-right:10px;">
+  <img src="Assets/casting_friends.png" width="200">
 </p>
 
 ---
@@ -69,14 +67,6 @@ It includes reminders, chat with doctors, and detailed medical history tracking.
   <img src="https://img.shields.io/badge/MVVM-9B59B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MVC-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20API-333333?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=A678F0&icon_color=A678F0" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=A678F0" height="160px"/>
 </p>
 
 ---
