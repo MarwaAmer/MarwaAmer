@@ -23,9 +23,9 @@ Includes reminders, chat with doctors, and detailed medical history tracking.
 🧩 **Tech Stack:** Swift, SwiftUI, MVVM, Core Data, Local Notifications  
 
 <p align="center">
-  <img src="image/login.jpeg" width="200" style="margin-right:10px;">
-  <img src="image/home.jpeg" width="200" style="margin-right:10px;">
-  <img src="image/setting.jpeg" width="200">
+  <img src="image/loginDrug.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/homeDrug.jpeg" width="200" style="margin-right:10px;">
+  <img src="image/settingDrug.jpeg" width="200">
 </p>
 
 ---
