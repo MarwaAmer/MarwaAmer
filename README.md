@@ -2,8 +2,8 @@
 <h3 align="center">iOS Developer | Swift | SwiftUI | UIKit</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-9061F9?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:marwa.email@example.com"><img src="https://img.shields.io/badge/-Email-A678F0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marwa-amer96"><img src="https://img.shields.io/badge/-LinkedIn-9061F9?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:marwa.mostafa.amer@gmail.com"><img src="https://img.shields.io/badge/-Email-A678F0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
